@@ -46,3 +46,5 @@ I graduated from Ondokuz Mayıs University, Department of Geomatics Engineering.
 &nbsp;
 
 <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="1000" height="600" /> 
+
+![snake gif](https://github.com/ozgurkurum/ozgurkurum/blob/output/github-contribution-grid-snake.gif)
