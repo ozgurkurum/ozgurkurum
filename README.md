@@ -37,7 +37,7 @@ I graduated from Ondokuz Mayıs University, Department of Geomatics Engineering.
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgurkurum&show_icons=true&locale=en&layout=compact" alt="ozgurkurum" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgurkurum&show_icons=true&locale=en&layout=compact" alt="ozgurkurum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurkurum&show_icons=true&locale=en" alt="ozgurkurum" /></p>
 
