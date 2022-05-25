@@ -16,7 +16,7 @@ I graduated from Ondokuz Mayıs University, Department of Geomatics Engineering.
 
 - 🔭 I’m currently working on [NoCopyRightMusicStore](https://github.com/ozgurkurum/NoCopyrightMusicStore)
 
-- 🌱 I’m currently learning **C#, ASP.Net Core, HTML, CSS, JavaScript, React , MSSQL**
+- 🌱 I’m currently learning **C#, ASP.Net Core, HTML5, CSS3, Bootstrap, Javascript, React.js, Node.js, MSSQL, MongoDB**
 
 - 📫 How to reach me **kurumozgur@outlook.com**
 
